@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "199622876796",
+    "firebase_url": "https://maher-71c00.firebaseio.com",
+    "project_id": "maher-71c00",
+    "storage_bucket": "maher-71c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199622876796:android:df0c8b4599ad60770133f9",
+        "android_client_info": {
+          "package_name": "com.example.maherteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199622876796-7g3th2gl43ducqbq3i6gikkf3qq3tsm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObfUWAn6q3uKYYfHDUxd6CzWQK2wcOgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199622876796-7g3th2gl43ducqbq3i6gikkf3qq3tsm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199622876796-dhvs3b7oikp6bk6rgcoull5as9q9jr4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "maher.rizme.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199622876796:android:0a8211cf1ee2e4280133f9",
+        "android_client_info": {
+          "package_name": "maher.rizme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199622876796-d7e36os76ir6k5kdhnqoool9p6383crf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maher.rizme.app",
+            "certificate_hash": "5560f4d5a4f48e91281716c7ba22dca46577010c"
+          }
+        },
+        {
+          "client_id": "199622876796-7g3th2gl43ducqbq3i6gikkf3qq3tsm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObfUWAn6q3uKYYfHDUxd6CzWQK2wcOgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199622876796-7g3th2gl43ducqbq3i6gikkf3qq3tsm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199622876796-dhvs3b7oikp6bk6rgcoull5as9q9jr4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "maher.rizme.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
